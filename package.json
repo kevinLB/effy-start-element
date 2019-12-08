@@ -1,5 +1,6 @@
 {
   "name": "effy-start-element",
+  "type": "module",
   "version": "1.0.0",
   "description": "effy-start-element",
   "repository": "https://github.com/kevinLB/effy-start-element.git",
