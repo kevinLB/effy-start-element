@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "effy-start-element",
   "repository": "https://github.com/kevinLB/effy-start-element.git",
-  "main": "effy-start-element.js",
+  "main": "./src/effy-start-element.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
